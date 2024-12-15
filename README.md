@@ -16,6 +16,9 @@
   I have a lot of knowledge in designing anti-intrusion locks for games.
 </h4>
 
+![gif](https://github.com/White-Wolf-dv/White-Wolf-dv/blob/main/mylivewallpapers.com-Anime-Room-ezgif.com-optimize.gif)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=white-wolf-dv&label=Profile%20views&color=3341ff&style=flat" alt="white-wolf-dv" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=white-wolf-dv" alt="white-wolf-dv" /></a> </p>
