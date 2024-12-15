@@ -26,13 +26,9 @@
 > I'm posting some v2ray configs on my page for those who have problems
 > like me.
 
-
-
 <br>
 
 ![gif](https://github.com/White-Wolf-dv/White-Wolf-dv/blob/main/icegif-96-ezgif.com-optimize.gif)
-
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=white-wolf-dv" alt="white-wolf-dv" /></a> </p>
 
