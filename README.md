@@ -26,7 +26,7 @@
 
 <br>
 
-![gif](https://github.com/White-Wolf-dv/White-Wolf-dv/blob/main/icegif-96.gif)
+![gif](https://github.com/White-Wolf-dv/White-Wolf-dv/blob/main/icegif-96-ezgif.com-optimize.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=white-wolf-dv&label=Profile%20views&color=3341ff&style=flat" alt="white-wolf-dv" /> </p>
 
