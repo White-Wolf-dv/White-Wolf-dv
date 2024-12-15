@@ -6,9 +6,13 @@
 ## Who Am i?
 
 <h4>
+  
   I am a game developer and designer with Unreal Engine.
+  
   Fluent in C++ and somewhat in .NET Core.
+  
   Gamer and content creator (Ubisoft fan).
+  
   I have a lot of knowledge in designing anti-intrusion locks for games.
 </h4>
 
