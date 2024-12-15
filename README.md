@@ -1,4 +1,4 @@
-# Hi 👋, I'm White wolf 👋
+# Hi 👋, I'm White wolf 🐺
 <h1 align="center">I have no boundaries </h1>
 
 ![logo](https://github.com/White-Wolf-dv/White-Wolf-dv/blob/main/ttv3.jpg)
