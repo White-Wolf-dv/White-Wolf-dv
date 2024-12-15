@@ -7,7 +7,7 @@
 
 
   
- - I am a game developer and designer with Unreal Engine.
+ - I am a developer and game designer with Unreal Engine.
 
  - Fluent in C++ and somewhat in .NET Core.
 
