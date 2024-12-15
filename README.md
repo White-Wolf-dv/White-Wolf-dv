@@ -5,24 +5,34 @@
 
 ## Who Am i?
 
-<h4>
+
   
-  I am a game developer and designer with Unreal Engine.
+ - I am a game developer and designer with Unreal Engine.
+
   
-  Fluent in C++ and somewhat in .NET Core.
+
+ - Fluent in C++ and somewhat in .NET Core.
+
   
-  Gamer and content creator (Ubisoft fan).
+
+ - Gamer and content creator (Ubisoft fan).
+
   
-  I have a lot of knowledge in designing anti-intrusion locks for games.
-</h4>
+
+ - I have a lot of knowledge in designing anti-intrusion locks for
+   games.
+
+
 
 ![gif](https://github.com/White-Wolf-dv/White-Wolf-dv/blob/main/mylivewallpapers.com-Anime-Room-ezgif.com-optimize.gif)
 
 <br>
 
-<h3>
-  I live in Iran, and the internet is severely restricted in Iran, so I'm posting some v2ray configs on my page for those who have problems like me.
-</h3>
+> I live in Iran, and the internet is severely restricted in Iran, so
+> I'm posting some v2ray configs on my page for those who have problems
+> like me.
+
+
 
 <br>
 
