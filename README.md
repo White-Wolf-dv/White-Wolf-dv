@@ -5,6 +5,13 @@
 
 ## Who Am i?
 
+<h4>
+  I am a game developer and designer with Unreal Engine.
+  Fluent in C++ and somewhat in .NET Core.
+  Gamer and content creator (Ubisoft fan).
+  I have a lot of knowledge in designing anti-intrusion locks for games.
+</h4>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=white-wolf-dv&label=Profile%20views&color=3341ff&style=flat" alt="white-wolf-dv" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=white-wolf-dv" alt="white-wolf-dv" /></a> </p>
