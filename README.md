@@ -19,7 +19,7 @@
 
 <p align="center">
   
-<img src="https://github.com/White-Wolf-dv/White-Wolf-dv/blob/main/mylivewallpapers.com-Anime-Room-ezgif.com-optimize.gif">
+<img width="50%" height="50%" src="https://github.com/White-Wolf-dv/White-Wolf-dv/blob/main/mylivewallpapers.com-Anime-Room-ezgif.com-optimize.gif">
 
 </p>
 
