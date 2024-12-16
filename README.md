@@ -27,9 +27,10 @@
 > like me.
 
 <br>
-
-![gif](https://github.com/White-Wolf-dv/White-Wolf-dv/blob/main/icegif-96-ezgif.com-optimize.gif)
-
+<br>
+<p align="center">
+<img width="800" height="400" src="https://github.com/White-Wolf-dv/White-Wolf-dv/blob/main/icegif-96-ezgif.com-optimize.gif" >
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
