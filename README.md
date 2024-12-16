@@ -17,8 +17,11 @@
    games.
 
 
+<p align="center">
+  
+<img src="https://github.com/White-Wolf-dv/White-Wolf-dv/blob/main/mylivewallpapers.com-Anime-Room-ezgif.com-optimize.gif">
 
-![gif](https://github.com/White-Wolf-dv/White-Wolf-dv/blob/main/mylivewallpapers.com-Anime-Room-ezgif.com-optimize.gif)
+</p>
 
 <br>
 
