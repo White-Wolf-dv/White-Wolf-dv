@@ -29,7 +29,7 @@
 <br>
 <br>
 <p align="center">
-<img width="800" height="400" src="https://github.com/White-Wolf-dv/White-Wolf-dv/blob/main/icegif-96-ezgif.com-optimize.gif" >
+<img width="70%" height="70%" src="https://github.com/White-Wolf-dv/White-Wolf-dv/blob/main/icegif-96-ezgif.com-optimize.gif" >
 </p>
 
 
