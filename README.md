@@ -19,7 +19,7 @@
 
 <p align="center">
   
-<img width="50%" height="50%" src="https://github.com/White-Wolf-dv/White-Wolf-dv/blob/main/Gif/15.gif">
+<img width="50%" height="50%" src="https://github.com/White-Wolf-dv/White-Wolf-dv/blob/main/Gif/29.gif">
 
 </p>
 
