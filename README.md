@@ -8,11 +8,8 @@
 
   
  - I am a developer and game designer with Unreal Engine.
-
  - Fluent in C++ and somewhat in .NET Core.
-
  - Gamer and content creator.
-
  - I have a lot of knowledge in designing anti-intrusion locks for
    games.
 
