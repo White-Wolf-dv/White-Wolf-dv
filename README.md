@@ -20,14 +20,18 @@
 
 </p>
 
+## My limitations
 <br>
 
-> I live in Iran, and the internet is severely restricted in Iran, so
-> I'm posting some v2ray configs on my page for those who have problems
-> like me.
+>I live in Iran and the internet is severely limited in Iran,
+>
+> so I'm posting
+>
+>a number of methods on my page for those who have problems like me.
 <br>
 
-## The software I developed
+## software I developed
+
 > BIBI palyer   (in develop)
 > 
 > video palyer (in develop)
