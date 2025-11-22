@@ -27,7 +27,11 @@
 > like me.
 <br>
 
-
+## The software I developed
+> BIBI palyer   (in develop)
+> 
+> video palyer (in develop)
+> 
 <br>
 <p align="center">
 <img width="70%" height="500%" src="https://github.com/White-Wolf-dv/White-Wolf-dv/blob/main/Gif/35.gif" >
