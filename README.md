@@ -42,10 +42,10 @@
 </p>
 
 
-
+<!--
 <a href="http://www.coffeete.ir/white_wolf">
        <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
-</a>
+</a> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
