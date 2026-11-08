@@ -8,10 +8,11 @@
 
   
  - I am a developer and game designer with Unreal Engine.
- - Fluent in C++ and somewhat in .NET Core.
+ - Fluent in C++ and (C#) .NET Core.
  - Gamer and content creator.
  - I have a lot of knowledge in designing anti-intrusion locks for
    games.
+ - Active in the field of countering LGBT and "woke" ideologies,
 
 
 <p align="center">
@@ -24,16 +25,15 @@
 <br>
 
 >I live in Iran and the internet is severely limited in Iran,
->
+><br>
 > so I'm posting
->
 >a number of methods on my page for those who have problems like me.
 <br>
 
 ## software I developed
 
 > BIBI palyer   (in develop)
-> 
+> <br>
 > video palyer (in develop)
 > 
 <br>
