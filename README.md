@@ -36,13 +36,11 @@
 > <br>
 > video palyer (in develop)
 > <br>
-> GafelSound
+> GafelSound (complete)
 > <br>
-> Atena-NetSpeed
-<br>
-> Atena-NetSpeed
+> Atena-NetSpeed (complete)
 > <br>
-> Atena-Battery
+> Atena-Battery (complete)
 <p align="center">
 <img width="70%" height="500%" src="https://github.com/White-Wolf-dv/White-Wolf-dv/blob/main/Gif/35.gif" >
 </p>
