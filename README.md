@@ -5,16 +5,17 @@
 
 ## Who Am i?
 
+```
+  I am a developer and game designer with Unreal Engine.
+  Fluent in C++ and (C#) .NET Core.
 
-  
- - I am a developer and game designer with Unreal Engine.
- - Fluent in C++ and (C#) .NET Core.
- - Gamer and content creator.
- - I have a lot of knowledge in designing anti-intrusion locks for
+  Gamer and content creator.
+
+  I have a lot of knowledge in designing anti-intrusion locks for
    games.
- - Active in the field of countering LGBT and "woke" ideologies,
 
-
+  Active in the field of countering LGBT and "woke" ideologies,
+```
 <p align="center">
   
 <img width="70%" height="500%" src="https://github.com/White-Wolf-dv/White-Wolf-dv/blob/main/IMG/14.jpg">
