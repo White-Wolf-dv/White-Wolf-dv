@@ -7,12 +7,14 @@
 
 ```
   I am a developer and game designer with Unreal Engine.
+
+  Design and develop an anti-crack lock using C++
+
   Fluent in C++ and (C#) .NET Core.
 
   Gamer and content creator.
 
-  I have a lot of knowledge in designing anti-intrusion locks for
-   games.
+  Game Level designer from 2018 to present
 
   Active in the field of countering LGBT and "woke" ideologies,
 ```
